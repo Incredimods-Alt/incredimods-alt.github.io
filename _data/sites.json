@@ -2,7 +2,7 @@
     {
         "name": "Ancient Arvo",
         "url": "https://youtu.be/-oN_rqP11bk?si=buyCTBrZ81Rf536Z",
-        "webapp": "https://incredimods.github.io/Ancient-Arvo",
+        "webapp": "https://incredimods-alt.github.io/Ancient-Arvo",
         "android": "https://github.com/Incredimods/Ancient-Arvo/releases/download/Ancient-Arvo/Incredibox_Ancient-Arvo_mobile.apk",
         "windows": "https://github.com/Incredimods/Ancient-Arvo/releases/download/Ancient-Arvo/Incredibox_Ancient-Arvo.zip",
         "availability": "playableplus",
@@ -12,7 +12,7 @@
     },
     {
         "name": "Balls",
-        "webapp": "https://incredimods.github.io/Balls",
+        "webapp": "https://incredimods-alt.github.io/Mods/balls",
         "availability": "playable",
         "creator": "Rem",
         "youtube": "https://youtube.com/@rin.incredibox",
@@ -25,10 +25,9 @@
     },
     {
         "name": "Balls FV",
-        "webapp": "https://incredimods.github.io/Balls-2024-update",
         "android": "https://github.com/Incredimods/Balls-2024-update/releases/download/Balls/Balls-android-2024-update.apk",
         "windows": "https://github.com/Incredimods/Balls-2024-update/releases/download/Balls/Balls-windows-2024-update.zip",
-        "availability": "playableplus",
+        "availability": "playableminus",
         "creator": "Rem",
         "youtube": "https://youtube.com/@rin.incredibox",
         "discord": "https://discord.com/invite/QUGGumuBcd",
@@ -40,19 +39,17 @@
     },
     {
         "name": "Blu",
-        "webapp": "https://incredimods.github.io/Blu",
         "android": "https://github.com/Incredimods/Blu/releases/download/Blu/Pummelbox_Blu_signed.apk",
         "windows": "https://github.com/Incredimods/Blu/releases/download/Blu/Pummelbox_Blu.zip",
-        "availability": "playableplus",
+        "availability": "playableminus",
         "creator": "Pummel",
         "names": ["blu"]
     },
     {
         "name": "Cold Fog",
-        "webapp": "https://incredimods.github.io/Cold-Fog",
         "android": "https://github.com/Incredimods/Cold-Fog/releases/download/Cold-Fog/AeghysBox-V1_Cold-Fog_signed.apk",
         "windows": "https://github.com/Incredimods/Cold-Fog/releases/download/Cold-Fog/AeghysBox-V1_Cold-Fog.zip",
-        "availability": "playableplus",
+        "availability": "playableminus",
         "creator": "Hanta Nyaw 44",
         "youtube": "https://www.youtube.com/@hantanyaw44",
         "names": ["cold fog"]
