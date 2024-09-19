@@ -1,0 +1,238 @@
+[
+    {
+        "name": "Ancient Arvo",
+        "url": "https://youtu.be/-oN_rqP11bk?si=buyCTBrZ81Rf536Z",
+        "webapp": "https://incredimods.github.io/Ancient-Arvo",
+        "android": "https://github.com/Incredimods/Ancient-Arvo/releases/download/Ancient-Arvo/Incredibox_Ancient-Arvo_mobile.apk",
+        "windows": "https://github.com/Incredimods/Ancient-Arvo/releases/download/Ancient-Arvo/Incredibox_Ancient-Arvo.zip",
+        "availability": "playableplus",
+        "creator": "Kelono",
+        "youtube": "https://youtube.com/@keledhei",
+        "names": ["ancient arvo"]
+    },
+    {
+        "name": "Balls",
+        "webapp": "https://incredimods.github.io/Balls",
+        "availability": "playable",
+        "creator": "Rem",
+        "youtube": "https://youtube.com/@rin.incredibox",
+        "discord": "https://discord.com/invite/QUGGumuBcd",
+        "linktree": "https://linktr.ee/rem.official",
+        "merch": "https://my-store-ea915a.creator-spring.com",
+        "and": "personFromBrazil",
+        "youtube1": "https://youtube.com/@personfrombrazil",
+        "names": ["balls"]
+    },
+    {
+        "name": "Balls FV",
+        "webapp": "https://incredimods.github.io/Balls-2024-update",
+        "android": "https://github.com/Incredimods/Balls-2024-update/releases/download/Balls/Balls-android-2024-update.apk",
+        "windows": "https://github.com/Incredimods/Balls-2024-update/releases/download/Balls/Balls-windows-2024-update.zip",
+        "availability": "playableplus",
+        "creator": "Rem",
+        "youtube": "https://youtube.com/@rin.incredibox",
+        "discord": "https://discord.com/invite/QUGGumuBcd",
+        "linktree": "https://linktr.ee/rem.official",
+        "merch": "https://my-store-ea915a.creator-spring.com",
+        "and": "personFromBrazil",
+        "youtube1": "https://youtube.com/@personfrombrazil",
+        "names": ["balls fv"]
+    },
+    {
+        "name": "Blu",
+        "webapp": "https://incredimods.github.io/Blu",
+        "android": "https://github.com/Incredimods/Blu/releases/download/Blu/Pummelbox_Blu_signed.apk",
+        "windows": "https://github.com/Incredimods/Blu/releases/download/Blu/Pummelbox_Blu.zip",
+        "availability": "playableplus",
+        "creator": "Pummel",
+        "names": ["blu"]
+    },
+    {
+        "name": "Cold Fog",
+        "webapp": "https://incredimods.github.io/Cold-Fog",
+        "android": "https://github.com/Incredimods/Cold-Fog/releases/download/Cold-Fog/AeghysBox-V1_Cold-Fog_signed.apk",
+        "windows": "https://github.com/Incredimods/Cold-Fog/releases/download/Cold-Fog/AeghysBox-V1_Cold-Fog.zip",
+        "availability": "playableplus",
+        "creator": "Hanta Nyaw 44",
+        "youtube": "https://www.youtube.com/@hantanyaw44",
+        "names": ["cold fog"]
+    },
+    {
+        "name": "Deep Blue",
+        "url": "https://www.youtube.com/watch?v=oNbi2P9GJqg",
+        "webapp": "https://incredimods.github.io/Deep-Blue",
+        "android": "https://github.com/Incredimods/Deep-Blue/releases/download/Deep-Blue/Incredibox_Deep-Blue_v1.0.0.apk",
+        "windows": "https://github.com/Incredimods/Deep-Blue/releases/download/Deep-Blue/Deep-Blue_PC.zip",
+        "availability": "playableplus",
+        "creator": "Lexlim",
+        "youtube": "https://www.youtube.com/@lexlimOfficial",
+        "names": ["deep blue"]
+    },
+    {
+        "name": "Dreamland",
+        "webapp": "https://incredimods.github.io/Dreamland",
+        "availability": "playable",
+        "names": ["dreamland"]
+    },
+    {
+        "name": "Hookrz",
+        "webapp": "https://incredimods.github.io/Hookrz",
+        "availability": "playable",
+        "creator": "Minecfplayer",
+        "names": ["hookrz"]
+    },
+    {
+        "name": "Into The Pit",
+        "url": "https://www.youtube.com/watch?v=oHVigvdVFYo",
+        "webapp": "https://incredimods.github.io/Into-The-Pit",
+        "availability": "playable",
+        "creator": "LexLim",
+        "youtube": "https://www.youtube.com/@lexlimOfficial",
+        "names": ["into the pit"]
+    },
+    {
+        "name": "Jura",
+        "url": "https://www.youtube.com/watch?v=RIY9nVHAjd0",
+        "webapp": "https://incredimods.github.io/Jura",
+        "android": "https://github.com/Incredimods/Jura/releases/download/Jura/Incredibox_Jura.apk",
+        "availability": "playableplus",
+        "creator": "UnusD3v",
+        "youtube": "https://www.youtube.com/@Unus.Incredibox",
+        "names": ["jura"]
+    },
+    {
+        "name": "Monochrome",
+        "webapp": "https://incredimods.github.io/Monochrome",
+        "availability": "playable",
+        "names": ["monochrome"]
+    },
+    {
+        "name": "Moonlight",
+        "webapp": "https://incredimods.github.io/Moonlight",
+        "android": "https://github.com/Incredimods/Moonlight/releases/download/Moonlight/Incredibox_Moonlight_signed.apk",
+        "windows": "https://github.com/Incredimods/Moonlight/releases/download/Moonlight/Incredibox_Moonlight.zip",
+        "availability": "playableplus",
+        "creator": "Incredibox Animator",
+        "youtube": "https://youtube.com/@incrediboxanimator?si=OVCJLgZ4_tLcspo0",
+        "names": ["moonlight"]
+    },
+    {
+        "name": "Orin Ayo",
+        "availability": "unavailable",
+        "creator": "Siren Bread",
+        "youtube": "https://youtube.com/@siren_bread",
+        "mod-site": "https://sites.google.com/view/sirenbread",
+        "names": ["orin ayo"]
+    },
+    {
+        "name": "Otherside",
+        "webapp": "https://incredimods.github.io/Otherside",
+        "android": "https://github.com/Incredimods/Otherside/releases/download/Otherside/Incrediblock_Otherside_signed.apk",
+        "windows": "https://github.com/Incredimods/Otherside/releases/download/Otherside/Incrediblocks_Otherside.zip",
+        "availability": "playableplus",
+        "creator": "Siren Bread",
+        "youtube": "https://youtube.com/@siren_bread",
+        "mod-site": "https://sites.google.com/view/sirenbread",
+        "names": ["otherside"]
+    },
+    {
+        "name": "Perform",
+        "webapp": "https://incredimods.github.io/Perform/",
+        "android": "https://github.com/Incredimods/Perform/releases/download/Perform/loaferbox_perform.apk",
+        "availability": "playableplus",
+        "names": ["perform"]
+    },
+    {
+        "name": "Piege",
+        "url": "https://www.youtube.com/watch?v=e4UAu-8glBU",
+        "webapp": "https://incredimods.github.io/Piege",
+        "availability": "playable",
+        "creator": "Flow Studios",
+        "youtube": "https://www.youtube.com/@Flow.Studio.Incredibox",
+        "names": ["piege"]
+    },
+    {
+        "name": "Righteous",
+        "webapp": "https://incredimods.github.io/Righteous",
+        "android": "https://github.com/Incredimods/Righteous/releases/download/Righteous/Righteous.apk",
+        "availability": "playable",
+        "creator": "PacificY",
+        "youtube": "https://www.youtube.com/@PacificYZY",
+        "mod-site": "https://pacificyzy.github.io/Incredibox_Web.github.io/",
+        "names": ["righteous"]
+    },
+    {
+        "name": "Runners",
+        "webapp": "https://incredimods.github.io/Runners",
+        "availability": "playable",
+        "names": ["runners"]
+    },
+    {
+        "name": "Set Fire",
+        "webapp": "https://incredimods.github.io/Set-Fire",
+        "availability": "playable",
+        "names": ["set fire"]
+    },
+    {
+        "name": "Shpongle",
+        "webapp": "https://incredimods.github.io/Shpongle",
+        "availability": "playable",
+        "names": ["shpongle"]
+    },
+    {
+        "name": "Skylines",
+        "webapp": "https://incredimods.github.io/Skylines",
+        "availability": "playable",
+        "names": ["skylines"]
+    },
+    {
+        "name": "Stranger Think",
+        "webapp": "https://incredimods.github.io/Stranger-Think",
+        "availability": "playable",
+        "names": ["stranger think"]
+    },
+    {
+        "name": "The Crime",
+        "url": "https://youtu.be/7x2dxJRmgec?si=ejKNjL3leM4ZW5kh",
+        "webapp": "https://Incredimods.github.io/The-Crime",
+        "android": "https://github.com/Incredimods/The-Crime/releases/download/The-Crime/Incredibox_The-Crime_signed.apk",
+        "windows": "https://github.com/Incredimods/The-Crime/releases/download/the-crime/Incredibox_The-Crime_v1.0.1.PC.zip",
+        "availability": "playableplus",
+        "creator": "R.K.",
+        "names": ["the crime"]
+    },
+    {
+        "name": "The Pit",
+        "webapp": "https://incredimods.github.io/The-Pit",
+        "availability": "playable",
+        "names": ["the pit"]
+    },
+    {
+        "name": "Vehemance",
+        "url": "https://youtu.be/fd1AuI49VZw?si=QyHP3wX-uRe4Dx_i",
+        "webapp": "https://incredimods.github.io/Vehemence",
+        "android": "https://github.com/Incredimods/Vehemence/releases/download/Vehemence/Hortasbox_Vehemence_signed.apk",
+        "availability": "playableplus",
+        "creator": "Trollgame Sanctuary",
+        "youtube": "https://youtube.com/@t.g.s_dev",
+        "names": ["vehemence"]
+    },
+    {
+        "name": "Vibin",
+        "webapp": "https://incredimods.github.io/Vibin",
+        "android": "https://github.com/Incredimods/Vibin/releases/download/Vibin/Dripbox_Vibin_signed.apk",
+        "windows": "https://github.com/Incredimods/Vibin/releases/download/Vibin/Dripbox_Vibin.zip",
+        "availability": "playableplus",
+        "creator": "Jado",
+        "youtube": "https://youtube.com/@diamondreaching",
+        "names": ["vibin"]
+    },
+    {
+        "name": "Wolfgang",
+        "webapp": "https://incredimods.github.io/Wolfgang",
+        "availability": "Playable",
+        "creator": "Lexlim",
+        "names": ["wolfgang"]
+    }
+]
+  
