@@ -11,6 +11,12 @@
         "names": ["ancient arvo"]
     },
     {
+        "name": "Anxiety",
+        "webapp": "https://incredimods-alt.github.io/Anxiety",
+        "availability": "playable"
+        "names": ["anxiety"]
+    },
+    {
         "name": "Balls",
         "webapp": "https://incredimods-alt.github.io/Mods/balls",
         "availability": "playable",
@@ -147,6 +153,10 @@
         "creator": "Flow Studios",
         "youtube": "https://www.youtube.com/@Flow.Studio.Incredibox",
         "names": ["piege"]
+    },
+    {
+        "name": "Yubin Niiku(Patatobox)",
+        "names": ["yubin niiku patatobox"]
     },
     {
         "name": "Righteous",
