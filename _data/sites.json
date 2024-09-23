@@ -44,6 +44,12 @@
         "names": ["balls fv"]
     },
     {
+        "name": "Burn",
+        "webapp": "https://incredimods-alt.github.io/Burn",
+        "availability": "playable",
+        "names" ["burn"]
+    },
+    {
         "name": "Blu",
         "android": "https://github.com/Incredimods/Blu/releases/download/Blu/Pummelbox_Blu_signed.apk",
         "windows": "https://github.com/Incredimods/Blu/releases/download/Blu/Pummelbox_Blu.zip",
